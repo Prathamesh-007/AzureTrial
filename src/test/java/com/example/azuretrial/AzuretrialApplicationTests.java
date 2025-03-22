@@ -12,8 +12,4 @@ import com.example.azuretrial.service.EmployeeService;
 class AzuretrialApplicationTests {
 
 
-	@Test
-	void contextLoads() {
-	}
-
 }
